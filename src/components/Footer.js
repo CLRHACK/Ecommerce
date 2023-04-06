@@ -20,20 +20,20 @@ const Footer = () => {
               <h4 className="text-white1 mb-4"> Contact Us</h4>
               <div>
                 <address className="text-white1 fs-5">
-                  44/1 Khek Noi Subdistrict, <br /> Khao Kho District, <br />  Phetchabun Province <br />
+                   Khek Noi Subdistrict, <br /> Khao Kho District, <br />  Phetchabun Province <br />
                   PinCode: 67280
                 </address>
                 <a
                   href="tel: +66 952482396"
                   className="mt-3 d-block mb-3 text-white1"
                 >
-                  +66 952482396
+                  +66 945562396
                 </a>
                 <a
                   href="mailto: Chaloemrat.he@psru.ac.th"
                   className="mt-2 d-block mb-2 text-white1"
                 >
-                  Chaloemrat.he@psru.ac.th
+                  sadsdh@gmai.com
                 </a>
                 <div className="social_icons d-flex align-items-center gap-30">
                   <a className="text-white1 " href="/">

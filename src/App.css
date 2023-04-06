@@ -206,8 +206,9 @@ footer .input-group-text {
 
 /* Home page*/
 .main-banner-content {
-  top: 25%;
-  left: 5%;
+  top: 1%;
+  left: 40%;
+  text-align: center;
 }
 .main-banner-content h4 {
   font-size: 16px;
@@ -224,13 +225,24 @@ footer .input-group-text {
   letter-spacing: -2px;
   font-weight: 500;
   text-transform: none;
+  color: white;
 }
+
 .main-banner-content p {
   font-size: 18px;
   line-height: 28px;
   letter-spacing: 0.4;
-  color: var(--color-131921);
+  color: white;
+  text-align: center;
 }
+.main-banner-content a {
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0.4;
+  color: white;
+  text-align: center;
+
+} 
 .small-banner-content {
   top: 15%;
   left: 10%;
